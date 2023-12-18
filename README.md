@@ -37,9 +37,3 @@ Im Farouk Ben Amor , Im a Jr Full Stack Developer <img src="https://media.giphy.
 </p>
 
 ---
-
-###  &nbsp; My Stats :
-
->...
-
----
