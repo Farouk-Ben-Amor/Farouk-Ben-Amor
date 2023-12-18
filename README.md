@@ -12,9 +12,9 @@
 
 Im Farouk Ben Amor , Im a Jr Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
-- 🔭 I’m a Junior Fullstack Developer | Recent Computer Science Graduate.
+- 🔭 Junior Fullstack Developer | Recent Computer Science Graduate.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks / Frontendmentor and read tech articles.
+- ⚡  In my free time I solve problems on GeeksforGeeks / Frontendmentor and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Farouk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faroukbenamor/)
 
 ---
